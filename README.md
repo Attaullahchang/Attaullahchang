@@ -52,35 +52,8 @@ Users can:
 
 ---
 
-## 📁 Project Structure
 
-muslimlogs-frontend/
-│
-├── public/
-│
-├── src/
-│   ├── components/
-│   │   ├── Navbar.js
-│   │   ├── BlockList.js
-│   │   ├── TransactionList.js
-│   │   ├── WalletCard.js
-│   │   └── Loader.js
-│   │
-│   ├── pages/
-│   │   ├── Explorer.js
-│   │   ├── BlockDetails.js
-│   │   ├── TransactionDetails.js
-│   │   └── WalletPage.js
-│   │
-│   ├── services/
-│   │   └── api.js
-│   │
-│   ├── App.js
-│   └── index.js
-│
-├── .env
-├── package.json
-└── README.md
+
 
 ---
 
@@ -166,5 +139,6 @@ Deploy the generated `build/` folder to:
 This project is developed as part of the MuslimLogs Blockchain Ecosystem.
 
 ---
+
 
 ⭐ Developed by Attualhha – Frontend Developer
