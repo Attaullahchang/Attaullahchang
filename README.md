@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About the Developer
 
-Attualhha  
+Attaullah 
 Frontend Developer with 2 Years of Professional Experience  
 
 I specialize in building modern, user-focused web applications using React.js and JavaScript. I focus on clean UI design, optimized performance, maintainable code structure, and seamless backend API integration.
@@ -142,3 +142,4 @@ This project is developed as part of the MuslimLogs Blockchain Ecosystem.
 
 
 ⭐ Developed by Attualhha – Frontend Developer
+
