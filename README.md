@@ -2,9 +2,9 @@
 
 **Senior Frontend Developer**
 
-📍 Location: [Your City, Country]  
-📧 Email: attaullah@email.com  
-📱 Phone: +123-456-7890  
+📍 Location: [Karachi, Pakistan]  
+📧 Email: attaullahchang73@email.com  
+📱 Phone: +923008058512  
 🔗 LinkedIn: https://linkedin.com/in/attaullah  
 🔗 GitHub: https://github.com/attaullah  
 
@@ -23,7 +23,7 @@ Results-driven Senior Frontend Developer with 6+ years of experience designing, 
 - Tailwind CSS, Bootstrap
 - JavaScript (ES6+), TypeScript
 - React.js, Next.js
-- Redux, Context API, Zustand
+- Redux, Context API, 
 - Responsive Web Design
 - Cross-browser compatibility
 
@@ -144,3 +144,4 @@ Results-driven Senior Frontend Developer with 6+ years of experience designing, 
 ---
 
 ⭐ *Senior Frontend Developer | Building scalable, high-performance web applications*
+
